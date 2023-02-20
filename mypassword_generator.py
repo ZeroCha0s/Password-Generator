@@ -1,6 +1,6 @@
 import random
 
-print("Welcome to Password Generator")
+print("Welcome to the Password Generator!")
 
 chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$*&().,'
 
